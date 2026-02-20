@@ -2,7 +2,8 @@
 # Dublin Bikes 
 
 ## Application Walkthrough
-https://github.com/user-attachments/assets/31b6f715-10f6-43ed-ae15-8431ffb2f4c5
+
+https://github.com/user-attachments/assets/28822f7b-aa0b-4311-801b-4a8537d4bb22
 
 ---
 
