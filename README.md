@@ -1,6 +1,10 @@
 
 # Dublin Bikes 
 
+## Demo
+
+[Watch the demo video](dublin-bikes-demo.mp4)
+
 This project is a comprehensive Flask-based web application that predicts the availability of Dublin Bikes at various stations using machine learning. It integrates real-time weather data, live bike station data, and historical CSV records to help users plan better.
 
 ---
